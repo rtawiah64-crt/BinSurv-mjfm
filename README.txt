@@ -13,6 +13,6 @@ The compressed file contains a readme file "README.txt", data  layout file "data
    # thetau0, thetaU0, rho0, sigv0 & sigV0 are initial values for thetau^2, thetaU^2, rho, sigmav^2 & sigmaV^2, respectively. 
    # The main function is "jointBinSurv"; it calls the output of the model. 
    # Maximum iteration = 300
-   # eps.reg and eps.var corresponds to epsilon1 and epsilon2, repectively: tolerance for the optimizers of regression coefficients and variance components.    
+   # eps.reg and eps.var correspond to epsilon1 and epsilon2, repectively: tolerance for the optimizers of regression coefficients and variance components.    
    
 
